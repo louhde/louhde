@@ -1,6 +1,5 @@
 # Hello 🌍
 
-- 🔭 I’m currently working for [Formance](https://www.formance.com/)
 - 🌱 I’m currently learning AWS, Cloud Computing, Infra as Code 
 - 💬 Ask me about everything
 - 😄 Pronouns: she/her
